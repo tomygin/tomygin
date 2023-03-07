@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://count.getloli.com/get/@tomygin.github.readme" alt="主页访问数量">
-</div>
+</div> -->
 
 <!-- ### 本人使用过的语言 -->
 
