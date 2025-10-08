@@ -5,7 +5,6 @@
   <img alt="网络不佳就会显示这个。" src="https://raw.githubusercontent.com/tomygin/tomygin/snake/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center"> <img width="400" src="https://count.kjchmc.cn/get/@:tomygin?theme=gelbooru" /> </div>
-
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=你可以逃跑+但是不要放弃" alt="Typing SVG" />
+</div>
