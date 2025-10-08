@@ -6,5 +6,5 @@
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=你可以逃跑+但是不要放弃" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&width=600&height=70&lines=你可以逃跑+但是不要放弃" alt="Typing Effect" />
 </div>
