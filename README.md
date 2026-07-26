@@ -19,6 +19,6 @@
 <br />
 
 <!-- 一句颜文字自我介绍（放最下面） -->
-<samp>(・ω・)ノ&emsp;clean&nbsp;code&nbsp;·&nbsp;tiny&nbsp;cute&nbsp;things&nbsp;·&nbsp;always&nbsp;learning</samp>
+<samp>clean&nbsp;code&nbsp;·&nbsp;tiny&nbsp;cute&nbsp;things&nbsp;·&nbsp;always&nbsp;learning</samp>
 
 </div>
